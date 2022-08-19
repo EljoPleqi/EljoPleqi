@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Eljo</h1>
 <h3 align="center">A web developer with an eye for good UI</h3>
 
-- 🔭 I’m currently working on [Jammaker](https://github.com/EljoPleqi/jammaker)
+- 🔭 I’m currently working on [Jammaker](https://github.com/EljoPleqi/jammaker-angular)
 
 - 🌱 I’m currently learning **Angular, Typescript**
 
