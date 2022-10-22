@@ -1,8 +1,8 @@
-<h3 align="center">A web developer with an eye for good UI</h3>
+<h3 align="center">A Web Developer & UI/UX Designer</h3>
 
-- 🔭 I’m currently working on [Jammaker](https://github.com/EljoPleqi/jammaker-angular)
+- 🔭 I’m currently working on learning Frontend Architectural Patterns
 
-- 🌱 I’m currently learning **Angular, Typescript**
+- 🌱 I’m currently learning **Angular, Typescript, Svelte, Frontend Architecture Design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/EljoPleqi/](https://github.com/EljoPleqi/)
 
